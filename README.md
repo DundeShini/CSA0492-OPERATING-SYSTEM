@@ -83,6 +83,7 @@ b. Assume that no process waits on I/O devices.
 ![file management operations@26](https://user-images.githubusercontent.com/112486766/215327561-e2672de2-e4e1-4d80-8177-4e9457d3e3ca.png)
 
 27. Develop a C program for simulating the function of ls UNIX Command.
+![ls unix command @27](https://user-images.githubusercontent.com/112486766/215330564-3ddc43ac-9c2f-4192-92f7-628f81cc5539.png)
 
 28. Write a C program for simulation of GREP UNIX command
 ![GREP unix command@28](https://user-images.githubusercontent.com/112486766/215275644-3598edd3-f416-4ce1-accc-6b99dd981e57.png)
