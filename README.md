@@ -60,6 +60,7 @@ b. Assume that no process waits on I/O devices.
 ![producer consumer problem @18](https://user-images.githubusercontent.com/112486766/215275476-081707b6-1378-40c9-81d7-16da8d8be582.png)
 
 19. Design a C program to implement process synchronization using mutex locks.
+![process sychronization using mutex locks@19](https://user-images.githubusercontent.com/112486766/215317207-75d5331f-aa7a-47ef-9211-eb6a54e36376.png)
 
 20. Construct a C program to simulate Reader-Writer problem using Semaphores.
 ![reader writer problem@20](https://user-images.githubusercontent.com/112486766/215275508-dceb1ae5-525a-4edc-8e6b-589632a1325f.png)
