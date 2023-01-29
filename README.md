@@ -92,6 +92,8 @@ b. Assume that no process waits on I/O devices.
 
 30. Write C programs to demonstrate the following thread related concepts.
 (i) create (ii) join (iii) equal (iv) exit
+![thread @30](https://user-images.githubusercontent.com/112486766/215329435-4e1339ad-2cc1-4261-ad01-ad9e4c41946b.png)
+
 
 31. Construct a C program to simulate the First in First Out paging technique of memory management.
 ![FIFO@31](https://user-images.githubusercontent.com/112486766/215275673-fc821ba6-b072-44d4-abc8-2de5e64dbc31.png)
