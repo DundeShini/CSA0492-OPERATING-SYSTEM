@@ -78,6 +78,7 @@ b. Assume that no process waits on I/O devices.
 ![unix system calls@24](https://user-images.githubusercontent.com/112486766/215275605-7db99e9c-7e4b-4ed8-aa23-e6adb053464e.png)
 
 25. Construct a C program to implement the I/O system calls of UNIX (fcntl, seek, stat, opendir, readdir)
+![input output system calls@25](https://user-images.githubusercontent.com/112486766/215331031-4a7bb1e7-ca09-45d1-bcb0-77061bd83dab.png)
 
 26. Construct a C program to implement the file management operations.
 ![file management operations@26](https://user-images.githubusercontent.com/112486766/215327561-e2672de2-e4e1-4d80-8177-4e9457d3e3ca.png)
