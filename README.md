@@ -31,7 +31,7 @@ b. Assume that no process waits on I/O devices.
 ![round robin@8](https://user-images.githubusercontent.com/112486766/215275295-d0dd7a80-2d4a-40a2-b27e-6528f11d3679.png)
 
 9. Illustrate the concept of inter-process communication using shared memory with a C program.  
-
+![IPC shared memory @9](https://user-images.githubusercontent.com/112486766/215332039-9599e01f-5831-4e6e-863d-249aaabfb425.png)
 
 10. Illustrate the concept of inter-process communication using message queue with a C program.  
 
