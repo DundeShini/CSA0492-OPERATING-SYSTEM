@@ -121,6 +121,7 @@ b. Assume that no process waits on I/O devices.
 ![C-SCAN @39](https://user-images.githubusercontent.com/112486766/215275867-18386d43-d67e-49a6-8f51-9d680122c678.png)
 
 40. Illustrate the various File Access Permission and different types users in Linux.
+![file access permission@40](https://user-images.githubusercontent.com/112486766/215329017-64e7d1d0-9108-4ac1-82de-0edf6c5d1c7f.png)
 
 
 
