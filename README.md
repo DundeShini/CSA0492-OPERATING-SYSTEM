@@ -80,6 +80,7 @@ b. Assume that no process waits on I/O devices.
 25. Construct a C program to implement the I/O system calls of UNIX (fcntl, seek, stat, opendir, readdir)
 
 26. Construct a C program to implement the file management operations.
+![file management operations@26](https://user-images.githubusercontent.com/112486766/215327561-e2672de2-e4e1-4d80-8177-4e9457d3e3ca.png)
 
 27. Develop a C program for simulating the function of ls UNIX Command.
 
