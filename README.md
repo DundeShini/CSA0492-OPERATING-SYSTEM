@@ -34,6 +34,7 @@ b. Assume that no process waits on I/O devices.
 ![IPC shared memory @9](https://user-images.githubusercontent.com/112486766/215332039-9599e01f-5831-4e6e-863d-249aaabfb425.png)
 
 10. Illustrate the concept of inter-process communication using message queue with a C program.  
+![IPC message queue](https://user-images.githubusercontent.com/112486766/215332767-72675e13-6b3e-456d-a563-4c05bb377286.png)
 
 11. Illustrate the concept of multithreading using a C program.
 ![multithreading @11](https://user-images.githubusercontent.com/112486766/215275373-0a95e5a9-9d40-4b34-bc10-53b3f585c846.png)
